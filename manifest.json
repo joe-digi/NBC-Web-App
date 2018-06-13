@@ -1,5 +1,17 @@
 {
   "short_name": "NBC",
   "name": "The Natural Barber Company",
+  "icons": [
+  {
+    "src": "https://uploads-ssl.webflow.com/5aaaa4ee4385a19db16561c0/5b219509b9c4bc8d4241ed6f_the-natural-barber-company-logo-192.png",
+    "type": "image/png",
+    "sizes": "192x192"
+  },
+  {
+    "src": "https://uploads-ssl.webflow.com/5aaaa4ee4385a19db16561c0/5b219509a2fa13f7e7b5140a_the-natural-barber-company-logo-512.png",
+    "type": "image/png",
+    "sizes": "512x512"
+  }
+],
   "theme_color": "#ffffff"
 }
